@@ -6,6 +6,11 @@ public class branchconcept {
 	{
 		System.out.println("this is sathish");
 	}
+	
+	public void stathish2()
+	{
+		System.out.println("this is sathish2");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
