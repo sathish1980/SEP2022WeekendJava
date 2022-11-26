@@ -12,6 +12,12 @@ public class branchconcept {
 		System.out.println("this is sathish2");
 	}
 
+public void student()
+	{
+		System.out.println("this is student");
+	}
+
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
