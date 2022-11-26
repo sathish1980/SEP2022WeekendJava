@@ -7,12 +7,8 @@ public class branchconcept {
 		System.out.println("this is sathish");
 	}
 	
-	public void stathish2()
-	{
-		System.out.println("this is sathish2");
-	}
 
-public void student()
+	public void student()
 	{
 		System.out.println("this is student");
 	}
