@@ -35,6 +35,11 @@ public class firstclass {
 		driver.navigate().forward();
 		driver.navigate().refresh();*/
 		//WebElement username=driver.findElement(By.id("emails"));
+		/*WebElement username=driver.findElement(By.cssSelector("input#email"));
+		WebElement username=driver.findElement(By.cssSelector("input.inputtext _55r1 _6luy"));
+		WebElement username=driver.findElement(By.cssSelector("input[data-testid=royal_email]"));
+		WebElement username=driver.findElement(By.cssSelector("input.inputtext _55r1 _6luy[data-testid=royal_email]"));*/
+		
 		WebElement username=driver.findElement(By.name("email"));
 		//WebElement username=driver.findElement(By.className("inputtext_55r1_6luy"));
 		username.sendKeys("sathish kumar R");
