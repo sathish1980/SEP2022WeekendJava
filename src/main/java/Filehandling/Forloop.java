@@ -44,7 +44,7 @@ public class Forloop {
 
 	}
 	
-	public void stringconceptimplementation() 
+	/*public void stringconceptimplementation() 
 	{
 		char[] nrechar=name.toCharArray();
 		for(int i=0;i<nrechar.length;i++)
@@ -68,11 +68,11 @@ public class Forloop {
 			System.out.print("\n");
 			}
 		}
-	}
+	}*/
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Forloop F = new Forloop();
-		F.stringconceptimplementation();
+		//F.stringconceptimplementation();
 	}
 
 }

@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: weekend.SEP2022WeekenedJAVA.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 s - in weekend.SEP2022WeekenedJAVA.AppTest
